@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3901D208-64EA-4174-A567-A16E16D1854C}|denemeee.csproj|C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\barinak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3901D208-64EA-4174-A567-A16E16D1854C}|denemeee.csproj|solutionrelative:barinak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3901D208-64EA-4174-A567-A16E16D1854C}|denemeee.csproj|C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3901D208-64EA-4174-A567-A16E16D1854C}|denemeee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3901D208-64EA-4174-A567-A16E16D1854C}|denemeee.csproj|c:\\users\\aykut bayraktar\\source\\repos\\denemeee\\barinak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3901D208-64EA-4174-A567-A16E16D1854C}|denemeee.csproj|solutionrelative:barinak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "barinak.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\barinak.cs",
+              "RelativeDocumentMoniker": "barinak.cs",
+              "ToolTip": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\barinak.cs [Tasar\u0131m]",
+              "RelativeToolTip": "barinak.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:27:02.745Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "barinak.cs",
+              "DocumentMoniker": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\barinak.cs",
+              "RelativeDocumentMoniker": "barinak.cs",
+              "ToolTip": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\barinak.cs",
+              "RelativeToolTip": "barinak.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwFEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:27:08.584Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aykut Bayraktar\\source\\repos\\denemeee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:17:48.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
